@@ -25,6 +25,7 @@ static const char *colors[][3]      = {
 
 static const char *const autostart[] = {
 	"picom", NULL,
+	"xbindkeys", NULL,
 	"udiskie", "--tray", NULL,
 	"nitrogen", "--restore", NULL,
 	"dwmblocks", NULL,
