@@ -29,6 +29,7 @@ static const char *const autostart[] = {
 	"udiskie", "--tray", NULL,
 	"nitrogen", "--restore", NULL,
 	"dwmblocks", NULL,
+	"redshift", NULL,
 	"st", NULL,
 	NULL /* terminate */
 };
